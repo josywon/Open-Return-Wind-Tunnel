@@ -5,6 +5,7 @@ Speed Computer Fan 2 Pack | 2 | to displace air | [fans](https://www.amazon.ca/P
 | Nickel-Chromium Wire | 1 | for smoke machine | [wire](https://www.amazon.ca/dp/B0FGNLDQ5H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | PWM Controller | 1 | for the smoke machine | [PWM](https://www.amazon.ca/dp/B07X5JZX4M?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | 12V DC jack power supply adapter | 1 | for smoke machine | [dc power](https://www.amazon.ca/dp/B07KR392XQ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
+| 5A fuse | 1 | for smoke machine to not explode | Provided by the University prototyping center |
 | LED Strip | 1 | to see the beautiful viewing area | [LED](https://www.amazon.ca/dp/B0CZDVFSJY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | ESP32 Dev Module with LCD | 1 | for the wind speed display | [esp](https://www.amazon.ca/dp/B0H1W291YT?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | DFR0569 Step Down DC-DC | 1 | provide a steady voltage to power the esp on | [step down](https://www.digikey.ca/en/products/detail/dfrobot/DFR0569/9559259) |
