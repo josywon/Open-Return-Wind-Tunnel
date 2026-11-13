@@ -12,4 +12,4 @@ Speed Computer Fan 2 Pack | 2 | to displace air | [fans](https://www.amazon.ca/P
 | 47kΩ Resistor | 1 | step down the voltage inputed into the esp | [47k](https://www.digikey.ca/en/products/detail/yageo/MF0207FRE52-47K/9125111) |
 | 10kΩ Resistor | 1 | step down voltage to ground | [10k](https://www.digikey.ca/en/products/detail/yageo/MF0207FRE52-10K/9124672) |
 | 0.1μF Capacitor | 1 | decoupling capacitor | [capacitor](https://www.digikey.sg/en/products/detail/kyocera-avx/SR155C104KARTR1/1550420) |
-| Various jumper wires | as many as necessary | Provided by the University prototyping center |
+| Various jumper wires | as many as necessary | to connect things | Provided by the University prototyping center |
