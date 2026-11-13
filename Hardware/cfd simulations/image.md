@@ -1,0 +1,1 @@
+![CFD sim](https://www.linkedin.com/dms/prv/image/v2/D5606AQFapjD7MaKqTw/messaging-image-720/B56aHWJjUhIsAU-/0/1794594190992?m=AQJkvtm-IjzI2AAAAaHWJkOntLdNgb9hzMzDpgXziNZhHA9hdj_3ewFTsUk&ne=1&v=beta&t=lztN_6LuHl43os2WJGBgF4QHqlVABU_P_Q_QVLTtTpg)
