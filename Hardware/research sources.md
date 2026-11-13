@@ -1,0 +1,6 @@
+| Article/Publishing Name | Publisher | Key Takeaways | Link |
+| --- | --- | --- | --- |
+| Wind Tunnels | ScienceDirect | Everything about wind tunnels | [Wind Tunnels](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/wind-tunnels) |
+| Small-Scale Open-Circuit Wind Tunnel: Design Criteria, Construction and Calibration | ResearchGate | Small scale wind tunnel design criteria | [Small-Scale Open-Circuit Wind Tunnel: Design Criteria, Construction and Calibration](https://www.researchgate.net/publication/321971798_Small-Scale_Open-Circuit_Wind_Tunnel_Design_Criteria_Construction_and_Calibration) |
+| Fig 5 - uploaded by Normayati Nordin | ReseachGate | Contraction cone optimal curve, quintic bell function curve and curve equation | [Fig 5 - uploaded by Normayati Nordin](https://www.researchgate.net/figure/Contraction-cone-is-designed-using-fifth-order-polynomial-principle-recommended-by-Bell_fig5_272054306) |
+| Optimization of contraction cone length in an open-circuit wind tunnel | ResearchGate | optimization of contraction cone geometry | [Optimization of contraction cone length in an open-circuit wind tunnel](
