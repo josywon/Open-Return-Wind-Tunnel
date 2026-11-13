@@ -5,10 +5,10 @@ Speed Computer Fan 2 Pack | 2 | to displace air | [fans](https://www.amazon.ca/P
 | Nickel-Chromium Wire | 1 | for smoke machine | [wire](https://www.amazon.ca/dp/B0FGNLDQ5H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | PWM Controller | 1 | for the smoke machine | [PWM](https://www.amazon.ca/dp/B07X5JZX4M?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | 12V DC jack power supply adapter | 1 | for smoke machine | [dc power](https://www.amazon.ca/dp/B07KR392XQ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
-| LED Strip | 1 | to see the beautiful viewing area | [LED]((https://www.amazon.ca/dp/B0CZDVFSJY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)) |
+| LED Strip | 1 | to see the beautiful viewing area | [LED](https://www.amazon.ca/dp/B0CZDVFSJY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | ESP32 Dev Module with LCD | 1 | for the wind speed display | [esp](https://www.amazon.ca/dp/B0H1W291YT?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
-| DFR0569 Step Down DC-DC | 1 | provide a steady voltage to power the esp on | [step down]((https://www.digikey.ca/en/products/detail/dfrobot/DFR0569/9559259)) |
-| 47kΩ Resistor | 1 | step down the voltage inputed into the esp | [47k]((https://www.digikey.ca/en/products/detail/yageo/MF0207FRE52-47K/9125111)) |
-| 10kΩ Resistor | 1 | step down voltage to ground | [10k]((https://www.digikey.ca/en/products/detail/yageo/MF0207FRE52-10K/9124672)) |
-| 0.1μF Capacitor | 1 | decoupling capacitor | [capacitor]((https://www.digikey.sg/en/products/detail/kyocera-avx/SR155C104KARTR1/1550420)) |
+| DFR0569 Step Down DC-DC | 1 | provide a steady voltage to power the esp on | [step down](https://www.digikey.ca/en/products/detail/dfrobot/DFR0569/9559259) |
+| 47kΩ Resistor | 1 | step down the voltage inputed into the esp | [47k](https://www.digikey.ca/en/products/detail/yageo/MF0207FRE52-47K/9125111) |
+| 10kΩ Resistor | 1 | step down voltage to ground | [10k](https://www.digikey.ca/en/products/detail/yageo/MF0207FRE52-10K/9124672) |
+| 0.1μF Capacitor | 1 | decoupling capacitor | [capacitor](https://www.digikey.sg/en/products/detail/kyocera-avx/SR155C104KARTR1/1550420) |
 | Various jumper wires | as many as necessary | Provided by the University prototyping center |
