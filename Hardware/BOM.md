@@ -5,6 +5,5 @@
 | Vegetable Glycerine | 1 | [smoke juice](https://www.amazon.ca/dp/B0BM5DWC85?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | Vinyl Viewing Plates | 2 | Bought at University prototyping center |
 | M3x3 Screws | 12 | Bought at University machine shop |
-| M3x3 Heat Inserts | 12 | Bought at University prototyping center |
-| M3x15 Screws | 12 | Bought at University machine shop |
-| M3x15 Heat Inserts | 12 | Bought at University prototyping center |
+| M3Heat Inserts | 12 | Bought at University prototyping center |
+| M4 Heat Inserts | 12 | Bought at University prototyping center |
