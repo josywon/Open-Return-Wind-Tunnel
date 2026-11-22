@@ -1,3 +1,4 @@
+<img width="1062" height="556" alt="wind tunnel_test new" src="https://github.com/user-attachments/assets/3bc08f57-25ad-4493-8882-e9ba8944424a" />
 # Open-Return-Wind-Tunnel
 Open return wind tunnel project logging
 
